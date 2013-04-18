@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Editor/FancyCompilerMenuItem.cs">
+    <Files>
+      <File FileName="Assets/Editor/FancyCompilerMenuItem.cs" Line="44" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets/scripts/debugging/DebuggingUI.cs" line="39" offsetX="476" offsetY="238" expression="gnarly" liveUpdate="False" />
+    <Watch file="Assets/scripts/debugging/DebuggingUI.cs" line="39" offsetX="476" offsetY="646" expression="gnarly" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
